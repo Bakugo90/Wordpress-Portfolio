@@ -6,8 +6,11 @@
         </div>
     </footer>
 
+     <!-- Google mpas -->
+     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtme10pzgKSPeJVJrG1O3tjR6lk98o4w8&callback=initMap"></script>
+
 	<!-- core  -->
-    <?php wp_footer ( ) ; ?>
+    <?php wp_footer () ; ?>
 
 </body>
 </html>

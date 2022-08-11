@@ -437,7 +437,7 @@
                         Web
                     </a>
                 </div>
-                <div class="portfolio-container"> 
+                <div class="portfolio-container">
                     <div class="col-md-6 col-lg-4 web new">
                         <div class="portfolio-item">
                             <img src="<?php echo get_template_directory_uri().'./assets/imgs/web-1.jpg'; ?>" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
@@ -447,7 +447,7 @@
                                     <h6 class="title">WEB</h6>
                                     <p class="subtitle">Expedita corporis doloremque velit in totam!</p>
                                 </div>
-                            </div>   
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 web new">

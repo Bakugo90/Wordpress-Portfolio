@@ -6,15 +6,15 @@
     <meta name="description" content="Start your development with JohnDoe landing page.">
     <meta name="author" content="Devcrud">
     <title><?php bloginfo( 'name' ); ?></title>
+
     <!-- font icons -->
-    <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <!-- Bootstrap + JohnDoe main styles -->
 
     <?php wp_head(); ?>
 
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
-    <a href="components.html" class="btn btn-primary btn-component" data-spy="affix" data-offset-top="600"><i class="ti-shift-left-alt"></i> Components</a>
+    <a href="./components.php" class="btn btn-primary btn-component" data-spy="affix" data-offset-top="600"><i class="ti-shift-left-alt"></i> Components</a>
     <header class="header">
         <div class="container">
             <ul class="social-icons pt-3">
